@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="new 1.css">
+    <title>Your Homepage</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome to DANIEL's Homepage</h1>
+        <p>Do you want to learn more about me? Come and know me with this webpage.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="PERSONAL WEBSITE.html">Home</a></li>
+            <li><a href="Info.html">All about myself</a></li>
+            <li><a href="Info 2.html">Family</a></li>
+			<li><a href="Info 4.html">Future Plan</a></li>
+			<li><a href="Info 3.html">Contact Me</a></li>
+        </ul>
+    </nav>
+
+    <section>
+       
+    </section>
+
+    <footer>
+        <p>&copy; Limuel's Personal Homepage. All rights reserved. 2023</p>
+    </footer>
+</body>
+</html>
